@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import Data from "./test_solution/data.json";
-import { flatObjToMap } from "./test_solution/flatObjToMap";
+import Data from "../test_solution/data.json";
+import { flatObjToMap } from "../test_solution/flatObjToMap";
 
 export default function Home() {
   // Function takes one parameter, the JSON file named Data
