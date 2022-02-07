@@ -1,0 +1,24 @@
+{
+  "automobil": {
+    "benzina": {
+      "marca": "dacia",
+      "anul": "2022"
+    },
+    "diesel": {
+      "marca": "audi",
+      "anul": "2022"
+    },
+    "electric": {
+      "marca": "tesla",
+      "anul": "2022"
+    }
+  },
+  "bicicleta": "pegas",
+  "role": {
+    "inline": {
+      "de viteza": {
+        "marca": "Rollerblades"
+      }
+    }
+  }
+}
